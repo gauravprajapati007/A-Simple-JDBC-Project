@@ -1,4 +1,4 @@
-# A-Simple-JDBC-Project
+# A-Simple-Hibernate-Project-Using-Persistence
 
 
 # Project Report
